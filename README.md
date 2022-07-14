@@ -37,4 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Tutorial on Medium
 
-[How to create a new nextjs project with a bun?]https://medium.com/nextjs/how-to-create-a-new-nextjs-project-with-a-bun-4a95f5a00523
+[How to create a new nextjs project with a bun?](https://medium.com/nextjs/how-to-create-a-new-nextjs-project-with-a-bun-4a95f5a00523)
